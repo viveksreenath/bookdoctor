@@ -1,0 +1,22 @@
+.main {
+  padding: 5px;
+  border: 0px;
+  width: 100%;
+  margin: 5px;
+  position: relative;
+  border-radius: 1px;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  box-sizing: border-box;
+}
+.sub {
+  padding: 5px;
+  border: 0px;
+}
+.buttonclass {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
